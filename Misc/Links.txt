@@ -1,0 +1,13 @@
+https://www.educative.io/blog/pandas-cheat-sheet
+
+python - interactive Python tutorial (learnpython)
+https://www.learnpython.org/
+
+סרטוני הדרכה ב-python בסיסי (Mosh Hamedani)
+https://www.youtube.com/watch?v=kqtD5dpn9C8
+
+regular expressions - cheat sheet & examples (learnbyexample)
+https://learnbyexample.github.io/python-regex-cheatsheet/
+
+sklearn vectorizers - explanations and examples (scikit-learn doc .)
+https://scikit-learn.org/stable/modules/feature_extraction.html

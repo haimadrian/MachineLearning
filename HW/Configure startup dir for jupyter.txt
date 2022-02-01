@@ -1,0 +1,2 @@
+Open C:\Users\hadrian\.jupyter\jupyter_notebook_config.py
+Update the value of c.NotebookApp.notebook_dir = 'C:/Studies/YearD/MachineLearning/HW/notebooks'
